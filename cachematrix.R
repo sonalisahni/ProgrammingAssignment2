@@ -1,4 +1,4 @@
-## Caching inverse 
+## Caching inverse of a matrix
 
 ## This function creates a vector which contains a list which sets/gets the matrix
 ## and sets/gets the inverse of a matrix
